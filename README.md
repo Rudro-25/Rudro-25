@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/rudro_25" target="blank"><img src="https://img.shields.io/twitter/follow/rudro_25?logo=twitter&style=for-the-badge" alt="rudro_25" /></a> </p>
 
 - 🌱 I’m currently learning **Academic and Competitive Programming**
+ 
+-💬 Ask me about anything related to **C and C++** programming.
 
 - 📫 How to reach me **rudro.cse5.bu@gmail.com**
 
