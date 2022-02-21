@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Academic and Competitive Programming**
  
--💬 Ask me about anything related to **C and C++** programming.
+- 💬 Ask me about anything related to **C and C++** programming.
 
 - 📫 How to reach me **rudro.cse5.bu@gmail.com**
 
