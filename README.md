@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rudro.cse5.bu@gmail.com**
 
-- ⚡ Fun fact **Call Me Rudro25 xD**
+- ⚡ Fun fact **"Call Me Rudro25" xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
