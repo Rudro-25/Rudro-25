@@ -37,6 +37,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudro-25&theme=algolia&show_icons=true&locale=en" alt="rudro-25" /></p>    
 
  <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Rudro-25&theme=react-dark)](https://github.com/Rudro-25/github-readme-activity-graph)   
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=Rudro-25&theme=react-dark)](https://github.com/Rudro-25/github-readme-activity-graph)  
+<!--CF Stats-->
+## My Codeforces Stats
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudro-25&theme=radical)](https://git.io/streak-stats)
