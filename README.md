@@ -40,6 +40,6 @@
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=Rudro-25&theme=react-dark)](https://github.com/Rudro-25/github-readme-activity-graph)  
 <!--CF Stats-->
 ## My Codeforces Stats
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Rudro25&theme=1)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudro-25&theme=radical)](https://git.io/streak-stats)
