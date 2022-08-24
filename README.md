@@ -7,8 +7,8 @@
 <a href="https://codeforces.com/profile/Rudro-25">
     <img src="https://raw.githubusercontent.com/Rudro-25/cf-stats/main/output/max_rating.svg" alt="CF rating" />
   </a>
-  <a href="https://stackoverflow.com/users/5921662/sudipto">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  <a href="https://stackoverflow.com/users/19840400/rudro25">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19840400?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/Rudro-25?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rudro-25?color=green&logo=github">
