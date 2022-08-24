@@ -74,9 +74,9 @@
 </a>
 </p>
 
-### Languages and Tools:
+#### Languages and Tools:
 
-<img height="48" src="img/cpp.svg" alt="cpp"> <img height="48" src="img/js.svg" alt="js"> <img height="48" src="img/react-original.svg" alt="react"><img height="48" src="img/nodejs.svg" alt="nodejs"><img height="48" src="img/php.svg" alt="php"> <img height="48" src="img/mysql.svg" alt="sql"> <img height="48" src="img/java.svg" alt="java"> <img height="48" src="img/linux.svg" alt="linux"> <img height="48" src="img/oracle.svg" alt="oracle"> <img height="48" src="img/as.svg" alt="as"> <img height="48" src="img/py.svg" alt="py"> <img height="48" src="img/ai.svg" alt="ai">
+<img height="35" src="img/cpp.svg" alt="cpp"> <img height="35" src="img/js.png" alt="js"> <img height="35" src="img/react-original.svg" alt="react"><img height="35" src="img/nj.jpeg" alt="nodejs"><img height="40" src="img/php.svg" alt="php"> <img height="35" src="img/mysql.svg" alt="sql"> <img height="35" src="img/java.svg" alt="java"> <img height="35" src="img/linux.svg" alt="linux"> <img height="35" src="img/oracle.svg" alt="oracle"> <img height="35" src="img/as.svg" alt="as"> <img height="35" src="img/py.svg" alt="py"> <img height="35" src="img/ai.svg" alt="ai">
 
 #### Development Stuffs:
 
