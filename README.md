@@ -1,6 +1,24 @@
 <h1 align="center">Hi 👋, I'm Rudro Debnath 😉</h1>
 <h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
 
+<p align="left">
+  <a href="https://leetcode.com/Rudro25/">
+    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/Rudro25">
+    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/5921662/Rudro">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/Rudro-25?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
+  </a>
+  <a href="https://github.com/Rudro-25/">
+    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
+  </a>
+
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudro-25&label=Profile%20views&color=0e75b6&style=flat" alt="rudro-25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudro-25" theme="dark" alt="rudro-25" /></a> </p>
