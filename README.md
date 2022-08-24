@@ -92,8 +92,9 @@
 <img height="273em" src="https://leetcard.jacoblin.cool/rudro25?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/Rudro-25/cf-stats/main/output/light_card.svg" />
 </p>
-### ACTIVITY GRAPH TRACKER 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Rudro-25&theme=react-dark)](https://github.com/Rudro-25/github-readme-activity-graph)  
+
+<!-- ### ACTIVITY GRAPH TRACKER 
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=Rudro-25&theme=react-dark)](https://github.com/Rudro-25/github-readme-activity-graph)   -->
 
 ### GitHub Streak
 
