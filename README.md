@@ -19,8 +19,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudro-25" theme="dark" alt="rudro-25" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rudro_25" target="blank"><img src="https://img.shields.io/twitter/follow/rudro_25?logo=twitter&style=for-the-badge" alt="rudro_25" /></a> </p>
-
 #### Now
 
 - ✨ 3rd year Undergraduate Student
@@ -39,6 +37,29 @@
 - ⚡ Fun fact **"Call Me Rudro25" xD**
 
 <h3 align="left">Connect with me:</h3>
+
+#### Connect With Me
+
+<p left="center">
+<a href="https://twitter.com/sudiptob2">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/sudiptob2/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/sudiptob2">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="https://medium.com/@sudiptob2">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a>
+<a href="mailto:sudiptobaral.me@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
+
+
+////
 <p align="left">
 <a href="https://twitter.com/rudro_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudro_25" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rudro-debnath-b579921a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudro debnath" height="30" width="40" /></a>
@@ -69,8 +90,12 @@
 <img height="273em" src="https://leetcard.jacoblin.cool/rudro25?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
- <!-- ACTIVITY GRAPH TRACKER -->
+### ACTIVITY GRAPH TRACKER 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=Rudro-25&theme=react-dark)](https://github.com/Rudro-25/github-readme-activity-graph)  
-<!--CF Stats-->
+
+### GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudro-25&theme=radical)](https://git.io/streak-stats)
+
+#### Recent Activity
+
