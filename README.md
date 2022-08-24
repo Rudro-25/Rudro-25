@@ -36,41 +36,42 @@
 - 📝 Checkout my [Resume](files/resum.pdf).
 - ⚡ Fun fact **"Call Me Rudro25" xD**
 
-<h3 align="left">Connect with me:</h3>
-
 #### Connect With Me
 
 <p left="center">
-<a href="https://twitter.com/sudiptob2">
+<a href="https://twitter.com/rudro_25">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
-<a href="https://www.linkedin.com/in/sudiptob2/">
+<a href="https://www.linkedin.com/in//">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://www.facebook.com/sudiptob2">
+<a href="https://www.facebook.com/rudro.debnath.399/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
-<a href="https://medium.com/@sudiptob2">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+<a href="mailto:rudro.cse5.bu.@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
-<a href="mailto:sudiptobaral.me@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <a href="https://discord.gg/Rudro25#1628">
+  <img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white" height=25>
 </a>
-</p>
-
-
-////
-<p align="left">
-<a href="https://twitter.com/rudro_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudro_25" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rudro-debnath-b579921a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudro debnath" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rudro.debnath.399/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rudro debnath" height="30" width="40" /></a>
-<a href="https://instagram.com/rudronath25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudro25_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rudro25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rudro25" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rudro25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rudro25" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rudro25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rudro25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rudro25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudro25" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/rudro25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rudro25" height="30" width="40" /></a>
-<a href="https://discord.gg/Rudro25#1628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rudro25#1628" height="30" width="40" /></a>
+  <a href="https://instagram.com/rudronath25">
+  <img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+</a> 
+  <a href="https://codeforces.com/profile/rudro25">
+  <img src="https://img.shields.io/badge/Codeforces-12100E?style=for-the-badge&logo=codeforces&logoColor=white" height=25>
+</a>
+  <a href="https://www.leetcode.com/rudro25">
+  <img src="https://img.shields.io/badge/LeeCode-12100E?style=for-the-badge&logo=leetcode&logoColor=white" height=25>
+</a>
+  <a href="https://www.codechef.com/users/rudro25">
+  <img src="https://img.shields.io/badge/Codechef-12100E?style=for-the-badge&logo=codechef&logoColor=white" height=25>
+</a>
+  <a href="https://www.hackerrank.com/rudro25">
+  <img src="https://img.shields.io/badge/HackerRank-12100E?style=for-the-badge&logo=hackerrank&logoColor=white" height=25>
+</a>
+  <a href="https://www.hackerearth.com/rudro25">
+  <img src="https://img.shields.io/badge/HackerEarth-12100E?style=for-the-badge&logo=hackerearth&logoColor=white" height=25>
+</a>
 </p>
 
 ### Languages and Tools:
