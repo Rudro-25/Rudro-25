@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/rudro25/">
     <img src="https://cp-logo.vercel.app/leetcode/rudro25" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/Rudro25">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="CF rating" />
+<a href="https://codeforces.com/profile/Rudro-25">
+    <img src="https://raw.githubusercontent.com/Rudro-25/cf-stats/main/output/max_rating.svg" alt="CF rating" />
   </a>
   <a href="https://stackoverflow.com/users/5921662/sudipto">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
@@ -90,7 +90,7 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/rudro25?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/Rudro-25/cf-stats/main/output/light_card.svg" />
 </p>
 ### ACTIVITY GRAPH TRACKER 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=Rudro-25&theme=react-dark)](https://github.com/Rudro-25/github-readme-activity-graph)  
