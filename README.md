@@ -7,6 +7,12 @@
 <a href="https://codeforces.com/profile/Rudro-25">
     <img src="https://raw.githubusercontent.com/Rudro-25/cf-stats/main/output/max_rating.svg" alt="CF rating" />
   </a>
+  <a href="https://codechef.com/users/rudro25/">
+    <img src="https://cp-badges.deta.dev/codechef/rudro25" alt="CodeChef" />
+  </a>
+  <a href="https://atcoder.jp/users/rudro25/">
+    <img src="https://cp-badges.deta.dev/atcoder/rudro25" alt="Atcoder" />
+  </a>
   <a href="https://stackoverflow.com/users/19840400/rudro25">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19840400?color=orange&label=reputation&logo=stackoverflow">
   </a>
