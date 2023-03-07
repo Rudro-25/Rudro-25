@@ -39,7 +39,7 @@
 - 🌱 Learning all about **Competive Programming**
 - 💬 Ping me about **Cpp**, **Problem-Setting**, **Competitive-Training**
 - 📫 Reach me: **rudro.cse5.bu@gmail.com**
-- 📝 Checkout my [Resume](files/resum.pdf).
+- 📝 Checkout my [Resume]([files/resum.pdf](https://www.canva.com/design/DAFcgg1GSJ0/HQpvIyezm2RHmU0uuStvwA/edit)).
 - ⚡ Fun fact **"Call Me Rudro25" xD**
 
 #### Connect With Me
