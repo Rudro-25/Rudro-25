@@ -1,4 +1,5 @@
-## Hi 👋, I'm Rudro debnath, a passionate Competitive Programmer from Bangladesh
+                                               ## Hi 👋, I'm Rudro debnath
+                                   A passionate Competitive Programmer from Bangladesh
 
 <p align="left">
   <a href="https://leetcode.com/rudro25/">
@@ -27,17 +28,17 @@
 
 #### Now
 
-- ✨ 3rd year Undergraduate Student
+- ✨ Undergraduate Student
 - :fire: Interested in Competitive Programming;
-- :calendar: Looking for contributing to web based open source projects 
+- :calendar: Looking to contribute to web-based open source projects 
 
 #### Bio
 
 - 🏢 I'm currently a **Student**
 - ⚙️ I use daily: `.cpp`, `.js`
 - 🌍 I'm mostly active within the **Cpusplus Community**
-- 🌱 Learning all about **Competive Programming**
-- 💬 Ping me about **Cpp**, **Problem-Setting**, **Competitive-Training**
+- 🌱 Learning all about **Competitive Programming**
+- 💬 Ping me about **Cpp**, **Problem-Setting**, **Problem-Testing**, **Competitive-Training**
 - 📫 Reach me: **rudro.cse5.bu@gmail.com**
 - 📝 Checkout my [Resume](https://www.canva.com/design/DAFcgg1GSJ0/HQpvIyezm2RHmU0uuStvwA/edit).
 - ⚡ Fun fact **"Call Me Rudro25" xD**
