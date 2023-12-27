@@ -1,4 +1,4 @@
-                                               ## Hi 👋, I'm Rudro debnath
+                                               Hi 👋, I'm Rudro Debnath
                                    A passionate Competitive Programmer from Bangladesh
 
 <p align="left">
