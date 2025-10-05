@@ -6,7 +6,7 @@
   <a href="https://leetcode.com/rudro25/">
     <img src="https://cp-logo.vercel.app/leetcode/rudro25" alt="Leet code rating" />
   </a>
-<a href="https://codeforces.com/profile/RDTheCoder">
+<a href="https://codeforces.com/profile/RD_TheCoder">
     <img src="https://raw.githubusercontent.com/Rudro-25/cf-stats/main/output/max_rating.svg" alt="CF rating" />
   </a>
   <a href="https://codechef.com/users/rudro25/">
